@@ -1,0 +1,13 @@
+# Date: 20180614
+# Author: MUJZY
+
+# Environment Building Steps Recorded:
+# 1: Flask..etc
+# 2: pip install werkzeug
+
+# Code Location: D:\PyFlaskLearningProjects\20180613_Test1\myapp
+
+# https://blog.csdn.net/yelena_11/article/details/53404892
+# The code of this project came from the url upside.
+
+# This Project is used to test the function of communicating between the server and the client.
